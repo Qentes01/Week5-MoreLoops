@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoops\Five Little Ducks\bin\Debug\netcoreapp3.1\Five Little Ducks.exe
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoops\Five Little Ducks\bin\Debug\netcoreapp3.1\Five Little Ducks.deps.json
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoops\Five Little Ducks\bin\Debug\netcoreapp3.1\Five Little Ducks.runtimeconfig.json
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoops\Five Little Ducks\bin\Debug\netcoreapp3.1\Five Little Ducks.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoops\Five Little Ducks\bin\Debug\netcoreapp3.1\Five Little Ducks.dll
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoops\Five Little Ducks\bin\Debug\netcoreapp3.1\Five Little Ducks.pdb
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoops\Five Little Ducks\obj\Debug\netcoreapp3.1\Five Little Ducks.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoops\Five Little Ducks\obj\Debug\netcoreapp3.1\Five Little Ducks.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoops\Five Little Ducks\obj\Debug\netcoreapp3.1\Five Little Ducks.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoops\Five Little Ducks\obj\Debug\netcoreapp3.1\Five Little Ducks.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoops\Five Little Ducks\obj\Debug\netcoreapp3.1\Five Little Ducks.dll
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoops\Five Little Ducks\obj\Debug\netcoreapp3.1\Five Little Ducks.pdb
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoops\Five Little Ducks\obj\Debug\netcoreapp3.1\Five Little Ducks.genruntimeconfig.cache
